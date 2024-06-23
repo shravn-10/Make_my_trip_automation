@@ -309,7 +309,7 @@ public class prac implements Runnable{
         prac testerTwo = new prac("src/test2.csv");
         prac testerThree = new prac("src/test3.csv");
         prac obj = new prac();
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\saish\\OneDrive\\Desktop\\computer science\\javapro\\Software Testing\\demo\\src\\drivers\\chromedriver1.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver1.exe");
         
         
         testerOne.agent.start();
