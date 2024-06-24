@@ -18,3 +18,9 @@ Selenium Testing automation of Make my trip website using Java
    6. Getting cookie data
   
    7. Window handles
+
+
+https://github.com/shravn-10/Make_my_trip_automation/assets/109055682/1234cc37-e233-405b-a772-6e194d855201
+
+
+
